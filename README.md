@@ -2,6 +2,9 @@
 
 This repository contains information about various reasoning methods for Large Language Models (LLMs).
 
+![Screenshot_2025-01-25_at_11 25 11_AM-removebg-preview](https://github.com/user-attachments/assets/d8743288-9e2d-43f2-a1fa-8981791eb291)
+
+
 ## Chain-of-Thought (CoT)
 
 ### Paper
