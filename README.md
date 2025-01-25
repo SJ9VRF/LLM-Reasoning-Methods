@@ -1,5 +1,3 @@
-# LLM-Reasoning-Methods
-
 # LLM Reasoning Methods
 
 This repository contains information about various reasoning methods for Large Language Models (LLMs).
